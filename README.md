@@ -1,5 +1,5 @@
 # Data Warehouse + ETL + Pentaho
-Neste material vamos entender um pouco sobre DW, processos de ETL e entender sobre a poderosa ferramenta Pentaho.
+Neste material vamos entender um pouco sobre DW, processos de ETL e aqui preparei um material muito interessante sobre a poderosa ferramenta Pentaho.
 
 ## Data Warehouse
  | Tutoriais/Título | Descrição/Link Medium | Links/Vídeos YouTube |

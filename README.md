@@ -15,6 +15,11 @@ Neste material vamos entender um pouco sobre DW, processos de ETL e aqui prepare
  | Pentaho - Parte 3 - Transformations (ETL/Transform) | Como tratar dados extraídos usando componentes do Pentaho. | [Vídeo Youtube](https://youtu.be/SpqS8rZxhQ8) |
  | Pentaho - Parte 4 - Outputs (ETL/Load) | Como carregar os dados tratados para uma planilha, banco ou até mesmo para um DW. | [Vídeo Youtube](https://youtu.be/dLQohgdC4cU) |
  
+ ## Pentaho (Extras)
+ | Tutoriais/Título | Descrição/Link Medium | Links/Vídeos YouTube |
+ | --- | --- | :---: |
+ | Pentaho - Jobs com Api Telegram | Aprenda a enviar confirmação de JOBs do Pentaho usando API do Telegram | [Vìdeo Youtube]( https://youtu.be/sO0VRZM_12Y) |
+
  <hr>
 
 [<< Voltar para página inicial](https://github.com/dev-daniel-amorim)

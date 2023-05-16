@@ -18,7 +18,7 @@ Neste material vamos entender um pouco sobre DW, processos de ETL e aqui prepare
  ## Pentaho (Extras)
  | Tutoriais/Título | Descrição/Link Medium | Links/Vídeos YouTube |
  | --- | --- | :---: |
- | Pentaho - Jobs com Api Telegram | Aprenda a enviar confirmação de JOBs do Pentaho usando API do Telegram | [Vìdeo Youtube]( https://youtu.be/sO0VRZM_12Y) |
+ | Pentaho - Jobs com API Telegram | Aprenda a enviar confirmação de JOBs do Pentaho usando API do Telegram | [Vìdeo Youtube]( https://youtu.be/sO0VRZM_12Y) |
 
  <hr>
 
